@@ -1,0 +1,18 @@
+C:\Users\BHUB\source\repos\URNA ELETRONICA\bin\Debug\net7.0-windows\URNA ELETRONICA.exe
+C:\Users\BHUB\source\repos\URNA ELETRONICA\bin\Debug\net7.0-windows\URNA ELETRONICA.deps.json
+C:\Users\BHUB\source\repos\URNA ELETRONICA\bin\Debug\net7.0-windows\URNA ELETRONICA.runtimeconfig.json
+C:\Users\BHUB\source\repos\URNA ELETRONICA\bin\Debug\net7.0-windows\URNA ELETRONICA.dll
+C:\Users\BHUB\source\repos\URNA ELETRONICA\bin\Debug\net7.0-windows\URNA ELETRONICA.pdb
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA_ELETRONICA.Form1.resources
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA_ELETRONICA.Properties.Resources.resources
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA ELETRONICA.csproj.GenerateResource.cache
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA ELETRONICA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA ELETRONICA.AssemblyInfoInputs.cache
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA ELETRONICA.AssemblyInfo.cs
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA ELETRONICA.csproj.CoreCompileInputs.cache
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA ELETRONICA.dll
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\refint\URNA ELETRONICA.dll
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA ELETRONICA.pdb
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA ELETRONICA.genruntimeconfig.cache
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\ref\URNA ELETRONICA.dll
+C:\Users\BHUB\source\repos\URNA ELETRONICA\obj\Debug\net7.0-windows\URNA ELETRONICA.sourcelink.json
